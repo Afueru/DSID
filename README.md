@@ -1,2 +1,2 @@
-# DSID
-Desenvolvimento de Sistemas de Informação Distribuídos
+# DSID - Desenvolvimento de Sistemas de Informação Distribuídos
+Bem distribuído mesmo
